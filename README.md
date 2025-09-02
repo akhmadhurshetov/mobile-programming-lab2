@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Instructions
+# Instructions
 This repository contains solutions for **Lab 2: Core Programming Concepts for C++/Java**.  
 I have chosen **C++** (`main.cpp`) as the implementation language.
 
 ---
 
-## 📝 Contents
+# Contents
 The file is structured into sections as in the lab handout:
 
 1. Main Function  
@@ -32,7 +32,7 @@ Each section contains **coding tasks** (in C++) and **theoretical answers** as c
 
 ---
 
-## ▶️ How to Run
+# How to Run
 ```bash
 g++ main.cpp -o lab2
 ./lab2
